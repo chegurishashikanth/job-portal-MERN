@@ -7,6 +7,7 @@ A full-stack job portal application built using the **MERN (MongoDB, Express.js,
 [Live Demo](https://job-portal-mern-2-eqph.onrender.com/)
 
 
+
 ## Features
 ### User Features
 - User authentication (Login/Signup)
