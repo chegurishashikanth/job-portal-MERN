@@ -3,6 +3,8 @@ Job Portal (MERN Stack)
 ## Overview
 A full-stack job portal application built using the **MERN (MongoDB, Express.js, React.js, Node.js) stack**. The platform allows users to browse, apply for jobs, and manage applications. Admins can manage job listings and companies.
 
+https://job-portal-mern-2-eqph.onrender.com/
+
 ## Features
 ### User Features
 - User authentication (Login/Signup)
